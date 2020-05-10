@@ -33,3 +33,7 @@ build
 *.iws
 *.ipr
 *.idea
+generated_tests
+
+gradlew
+gradlew.*
